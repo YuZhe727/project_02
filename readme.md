@@ -1,3 +1,2 @@
-Hi,we are learning Git together.
-Have a good time!
-first
+# project_02
+i am learning git!!!
